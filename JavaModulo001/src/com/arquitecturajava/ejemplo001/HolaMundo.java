@@ -1,4 +1,4 @@
-package com.arquitectura.ejemplo001;
+package com.arquitecturajava.ejemplo001;
 
 public class HolaMundo {
 
